@@ -30,7 +30,7 @@ $result = mysqli_query($connection, $sql);
 <table class="table table-striped">
   <thead>
     <tr>
-      <th>My Id</th>
+      <th>Id</th>
       <th>Drug Name</th>
       <th>Rx Number</th>
       <th>
